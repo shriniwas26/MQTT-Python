@@ -1,0 +1,2 @@
+MQTT_BROKER_ADDR="127.0.0.1"
+MQTT_TOPIC="SampleTopic"
